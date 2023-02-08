@@ -5,7 +5,11 @@
 - lists contents in the current directory
 
 * 2-bring_me_home
-- switches from the current working directory to the user's home directory
+- switches from the working directory to the user's home directory
 
 * 3-listfiles
 - displays content in current directory using long listing format
+
+* 4-listmorefiles
+- displays all contents in the working directory including hidden files in a long listing format.
+

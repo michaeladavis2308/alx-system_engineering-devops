@@ -33,3 +33,7 @@
 
 * 11-lists
 - list all files including hidden files in the current directory, parent of the working directory and the /boot directory
+
+* 12-file_type
+- prints the type of the file named iamafile
+

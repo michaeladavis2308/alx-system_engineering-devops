@@ -38,4 +38,10 @@
 - prints the type of the file named iamafile
 
 * 13-symbolic_link
-- creates a symbolic link to a path bin/ls with the file name __ls__
+- creates a symbolic link to a path bin/ls with the file name __ls_
+
+* 14-copy_html
+- copies all the HTML files from the current directory to parent directory but copies files that don't exist in the parent directory of the working directory._
+
+* 100-lets_move
+-Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.

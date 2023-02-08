@@ -6,3 +6,6 @@
 
 * 2-bring_me_home
 - switches from the current working directory to the user's home directory
+
+* 3-listfiles
+- displays content in current directory using long listing format

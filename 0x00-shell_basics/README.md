@@ -13,3 +13,6 @@
 * 4-listmorefiles
 - displays all contents in the working directory including hidden files in a long listing format.
 
+* 5-listfilesdigitonly
+- displays contents in working directory in inodes and in long listing format including hidden files
+

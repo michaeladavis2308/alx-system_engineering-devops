@@ -27,3 +27,6 @@
 
 * 9-firstdirdeletion
 - deletes a directory 'my_first_directory' from the tmp directory
+
+* 10-back
+- switches the working directory to a previous directory

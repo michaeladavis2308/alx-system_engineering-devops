@@ -16,3 +16,5 @@
 * 5-listfilesdigitonly
 - displays contents in working directory in inodes and in long listing format including hidden files
 
+* 6-firstdirectory
+- creates a directory my_first_diectory in another directory tmp

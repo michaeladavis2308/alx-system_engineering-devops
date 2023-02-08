@@ -37,3 +37,5 @@
 * 12-file_type
 - prints the type of the file named iamafile
 
+* 13-symbolic_link
+- creates a symbolic link to a path bin/ls with the file name __ls__

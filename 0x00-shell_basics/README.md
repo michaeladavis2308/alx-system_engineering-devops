@@ -24,3 +24,6 @@
 
 * 8-firstdelete
 - removes the file 'betty' from the directory my_first_directory
+
+* 9-firstdirdeletion
+- deletes a directory 'my_first_directory' from the tmp directory

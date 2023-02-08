@@ -14,10 +14,13 @@
 - displays all contents in the working directory including hidden files in a long listing format.
 
 * 5-listfilesdigitonly
-- displays contents in working directory in inodes and in long listing format including hidden files
+- display content in the working directory in a long listing format with user and group IDs displayed numerically including hidden files.
 
 * 6-firstdirectory
-- creates a directory my_first_diectory in another directory tmp
+- creates a directory my_first_directory in another directory tmp.
 
 * 7-movethatfile
-- moves a file 'betty' from directory tmp to directory my_first_directory
+- this moves a file 'betty' from directory tmp to directory my_first_directory
+
+* 8-firstdelete
+- removes the file 'betty' from the directory my_first_directory

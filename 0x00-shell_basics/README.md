@@ -18,3 +18,6 @@
 
 * 6-firstdirectory
 - creates a directory my_first_diectory in another directory tmp
+
+* 7-movethatfile
+- moves a file 'betty' from directory tmp to directory my_first_directory

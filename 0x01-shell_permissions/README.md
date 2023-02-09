@@ -16,6 +16,9 @@
 * 5-execute
 - a script that adds execute permission to the owner of the file hello
 
+* 6-multiple_permissions
+- a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+
 * 7-everybody
 - a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 
@@ -34,8 +37,6 @@
 
 * 12-directory_permissions
 - a script that creates a directory called my_dir with permissions 751 in the working directory.
-
-
 
 * 13-change_group
 - a script that changes the group owner to school for the file hello

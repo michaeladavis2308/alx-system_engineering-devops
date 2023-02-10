@@ -54,3 +54,6 @@
     The file _hello is a symbolic link
 * 102-if_only
 - a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
+
+* 103-Star_Wars
+- a script that plays the StarWars IV episode in the terminal.

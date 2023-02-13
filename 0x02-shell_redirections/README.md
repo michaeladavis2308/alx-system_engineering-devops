@@ -49,6 +49,10 @@
 
 * 17-hidethisword
 - a script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+* 18-letteronly
+- a script that displays all lines of the file /etc/ssh/sshd_config starting with a letter
+
 * 19-AZ 
 - a script that replace all characters A and c from input to Z and e respectively
 

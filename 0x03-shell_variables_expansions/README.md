@@ -31,7 +31,14 @@
     BREATH and LOVE are environment variables
     The script should display the result, followed by a new line
 
+*12-combinations
+-a script that prints all possible combinations of two letters, except oo.
 
+    Letters are lower cases, from a to z
+    One combination per line
+    The output should be alpha ordered, starting with aa
+    Do not print oo
+    Your script file should contain maximum 64 characters
 
 *13-print_float
 -a script that prints a number with two decimal places, followed by a new line.
